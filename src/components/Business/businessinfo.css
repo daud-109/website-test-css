@@ -1,0 +1,36 @@
+.formBusinessInfo {
+  max-width: 50%;
+  margin: auto;
+}
+
+.formBusinessInfo h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.formBusinessInfo label {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.formBusinessInfo input {
+  max-width: 90%;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: #000000;
+}
+
+.formBusinessInfo select {
+  max-width: 90%;
+  border-width: 2px;
+  border-color: #000000;
+  font-weight: bold;
+}
+
+
+.formBusinessInfo textarea{
+  max-width: 90%;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: #000000;
+}
